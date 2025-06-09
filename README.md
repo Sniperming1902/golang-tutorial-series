@@ -27,7 +27,7 @@ Before you begin, make sure you have:
 ### Chapter 1: The Basics
 
 *   [Lesson 01: Hello, World!](./tutorial_1//)
-*   *(More lessons coming soon!)*
+*   [Lesson 02: Variables and Data Types](./tutorial_2/)
 
 
 ---
